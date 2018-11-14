@@ -1,0 +1,10 @@
+body {
+  background-color: goldenrod;
+  color:maroon;
+}
+
+img {
+  width: 25%;
+  margin: auto;
+  display: block;
+}
